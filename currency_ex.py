@@ -8,7 +8,7 @@ reais = int(input("How many reais? "))
 
 exr = 0.1842 # Reias
 exp = 0.06 # Pesos
-exs = 3.361 # Soles
+exs = 0.29 # Soles
 
 # Calc Function
 
